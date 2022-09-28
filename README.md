@@ -24,7 +24,7 @@ A video game with three.js
 - [X] : As a player, I want a better light to be able to see all the map
 - [X] : As a player, I don't want any error in the Console bar 
 - [X] : As a player, I want to be stop when I go into the left wall
-- [ ] : As a player, I want to have a ground when I start the game
+- [X] : As a player, I want to have a ground when I start the game
 - [ ] : As a player, I want to see ennemy
 - [ ] : As a player, I want to destroy ennemy when I shot them
 - [ ] : As a ennemy, I want to move on one axe
@@ -32,4 +32,4 @@ A video game with three.js
 - [ ] : As a player, I want to decrease my life when I fall 
 
 **BONUS**
-- [X] : As a dev, I want the walls to stop be stopped when hitting a wall
+- [X] : As a player, I want the walls to stop be stopped when hitting a wall
