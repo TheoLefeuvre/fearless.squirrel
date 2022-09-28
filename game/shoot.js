@@ -71,8 +71,6 @@ function player_falling() {
     var length = noGround.length;
     var element = null;
 
-    console.log("LENGTH FROM SHOOT: " + noGround.length);
-
     for (var i = 0; i < length; i++) {
         element = noGround[i];
 
